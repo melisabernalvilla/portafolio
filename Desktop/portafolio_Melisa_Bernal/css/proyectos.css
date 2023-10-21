@@ -19,6 +19,7 @@
 
 .proyecto__img{
     width: 70%;
+    margin-bottom: 10%;
     box-shadow: 0rem 0rem 1rem var(--neon-blanco);
     
 }
